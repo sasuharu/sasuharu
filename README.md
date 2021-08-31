@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @sasuharu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 自作アプリ置き場
+業務効率化アプリを自作して，ここに置いている。
+拾い物もあるので，商業利用はNG。あくまで自分用。
 
-<!---
-sasuharu/sasuharu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## depfinder
+### 説明
+PC内の重複したファイルを探してくれる。
+### ZIPファイル中身
+- 説明用テキストファイル
+- 実行ファイル
+- ソースコード
+### 更新
+2021/8/31 ファイルアップロード
